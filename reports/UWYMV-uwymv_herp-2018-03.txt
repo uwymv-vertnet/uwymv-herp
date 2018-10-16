@@ -1,0 +1,46 @@
+Report for Institution Code UWYMV, Resource uwymv_herp
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 30
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-26 ; Times: 4
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:baxter institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Anaxyrus year &gt;= 1940 year &lt;= 1940 institutioncode:UWYMV" ; Times: 1
+	Query: "recordedby:Baxter year &gt;= 1946 year &lt;= 1946 month &gt;= 6 month &lt;= 6 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:336 institutioncode:UWYMV" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:629 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:422 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:326 institutioncode:UWYMV" ; Times: 1
+	Query: "year &gt;= 1946 year &lt;= 1946 month &gt;= 6 month &lt;= 6 institutioncode:UWYMV" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1284 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen order:Anura institutioncode:UWYMV" ; Times: 1
+
+
+End of report.
