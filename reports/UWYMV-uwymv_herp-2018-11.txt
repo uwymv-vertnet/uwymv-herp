@@ -1,0 +1,45 @@
+Report for Institution Code UWYMV, Resource uwymv_herp
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1719 download events in this period)
+Total number of records downloaded: 55
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Spain ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 1
+	Date: 2018-11-07 ; Times: 2
+	Date: 2018-11-06 ; Times: 1
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sceloporus" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "family:Viperidae" ; Times: 1
+	Query: "genus:Opheodrys" ; Times: 2
+	Query: "bombina bombina" ; Times: 1
+	Query: "specificepithet:bombina bombina" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 1
+
+
+End of report.
