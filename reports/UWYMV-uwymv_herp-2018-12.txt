@@ -1,0 +1,37 @@
+Report for Institution Code UWYMV, Resource uwymv_herp
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 809 download events in this period)
+Total number of records downloaded: 23
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+
+
+End of report.
