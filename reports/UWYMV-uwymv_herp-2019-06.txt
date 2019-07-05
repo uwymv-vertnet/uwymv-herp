@@ -1,0 +1,58 @@
+Report for Institution Code UWYMV, Resource uwymv_herp
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 227
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-23 ; Times: 1
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-06 ; Times: 2
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 9
+	Date: 2019-06-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "lampropeltis gentilis" ; Times: 2
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "gbifdatasetid:b11cbb9e-8ee0-4d9a-8eac-da5d5ab53a31" ; Times: 2
+	Query: "genus:Opheodrys specificepithet:vernalis" ; Times: 1
+	Query: "genus:Spea specificepithet:bombifrons" ; Times: 1
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 1
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 2
+	Query: "Opheodrys vernalis" ; Times: 2
+	Query: "genus:Holbrookia specificepithet:maculata" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:cognatus" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1182 download events in this period)
+Total number of records downloaded: 59
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-06 ; Times: 4
+	Date: 2019-06-04 ; Times: 2
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "BEAVER" ; Times: 1
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "beaver" ; Times: 8
+
+
+End of report.
