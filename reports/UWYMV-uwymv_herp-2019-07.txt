@@ -1,0 +1,59 @@
+Report for Institution Code UWYMV, Resource uwymv_herp
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 252
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 2
+	Date: 2019-07-01 ; Times: 6
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:UWYMV" ; Times: 1
+	Query: "class:reptilia county:&#34;hot springs&#34; stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "genus:Holbrookia specificepithet:maculata" ; Times: 1
+	Query: "genus:charina stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "gbifdatasetid:b11cbb9e-8ee0-4d9a-8eac-da5d5ab53a31" ; Times: 1
+	Query: "year &gt;= 1820 year &lt;= 1890 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "year &lt;= 1900 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 1
+	Query: "genus:crotalus county:&#34;park&#34; stateprovince:&#34;wyoming&#34;" ; Times: 2
+	Query: "class:reptilia county:&#34;park&#34; stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "genus:crotalus county:&#34;hot springs&#34; stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "specificepithet:Triangulum genus:Lampropeltis stateprovince:&#34;Wyoming&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 985 download events in this period)
+Total number of records downloaded: 15
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-31 ; Times: 2
+	Date: 2019-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aspidoscelis sexlineata" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "specificepithet:Hernandesi genus:Phrynosoma" ; Times: 1
+
+
+End of report.
