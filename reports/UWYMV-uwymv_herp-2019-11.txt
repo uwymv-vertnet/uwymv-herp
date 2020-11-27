@@ -1,0 +1,46 @@
+Report for Institution Code UWYMV, Resource uwymv_herp
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 121
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-08 ; Times: 1
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:UWYMV" ; Times: 1
+	Query: "institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:baxteri" ; Times: 2
+	Query: "genus:charina specificepithet:bottae institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "plestiodon multivirgatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1367 download events in this period)
+Total number of records downloaded: 17
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-08 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rana sylvatica" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:UWYMV" ; Times: 1
+	Query: "genus:charina specificepithet:bottae institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+
+
+End of report.
