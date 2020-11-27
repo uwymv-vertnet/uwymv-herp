@@ -1,0 +1,53 @@
+Report for Institution Code UWYMV, Resource uwymv_herp
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 36
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 6
+	Date: 2019-12-03 ; Times: 4
+	Date: 2019-12-01 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lampropeltis triangulum gentilis" ; Times: 1
+	Query: "genus:charina stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Crotalus concolor" ; Times: 1
+	Query: "Ambystoma tigrinum mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "specificepithet:americanus genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:baxteri genus:Anaxyrus" ; Times: 2
+	Query: "Anaxyrus americanus mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "specificepithet:cognatus genus:Anaxyrus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 596 download events in this period)
+Total number of records downloaded: 337
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Crotalus concolor" ; Times: 1
+
+
+End of report.
