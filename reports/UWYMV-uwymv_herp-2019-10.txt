@@ -1,0 +1,49 @@
+Report for Institution Code UWYMV, Resource uwymv_herp
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 234
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-22 ; Times: 5
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-26 ; Times: 4
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 2
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pituophis institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Crotalus institutioncode:UWYMV" ; Times: 1
+	Query: "Crotalus oreganus concolor" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:UWYMV" ; Times: 5
+	Query: "genus:Thamnophis class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "genus:Crotalus class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "sleep amphibian" ; Times: 2
+	Query: "specificepithet:nigriceps genus:Tantilla stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:nigriceps genus:Tantilla" ; Times: 1
+	Query: "UWYMV" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1308 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
