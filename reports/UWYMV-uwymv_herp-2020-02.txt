@@ -1,0 +1,42 @@
+Report for Institution Code UWYMV, Resource uwymv_herp
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 15
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "lampropeltis gentilis" ; Times: 3
+	Query: "Anaxyrus baxteri" ; Times: 1
+	Query: "Lampropeltis gentilis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1023 download events in this period)
+Total number of records downloaded: 15
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+
+
+End of report.
