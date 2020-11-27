@@ -1,0 +1,59 @@
+Report for Institution Code UWYMV, Resource uwymv_herp
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 52
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-07 ; Times: 3
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lampropeltis triangulum gentilis" ; Times: 1
+	Query: "class:Amphibia locality:Piney Creek" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "specificepithet:boreas genus:Bufo stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Campbell&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Sheridan&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Wyoming&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1171 download events in this period)
+Total number of records downloaded: 147
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-29 ; Times: 7
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:constrictor genus:Coluber" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "specificepithet:hernandesi genus:Phrynosoma" ; Times: 2
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "Rana luteiventris" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "Charina bottae" ; Times: 1
+
+
+End of report.
