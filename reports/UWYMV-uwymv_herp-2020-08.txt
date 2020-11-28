@@ -1,0 +1,47 @@
+Report for Institution Code UWYMV, Resource uwymv_herp
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Thamnophis sirtalis fitchi" ; Times: 2
+	Query: "vntype:specimen specificepithet:americanus genus:Anaxyrus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "sleep" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 756 download events in this period)
+Total number of records downloaded: 25
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-06 ; Times: 2
+	Date: 2020-08-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "Sceloporus graciosus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+
+
+End of report.
