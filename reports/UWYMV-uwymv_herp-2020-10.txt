@@ -1,0 +1,48 @@
+Report for Institution Code UWYMV, Resource uwymv_herp
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 13
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus concolor" ; Times: 1
+	Query: "genus:sceloporus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "crotalus concolor" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1521 download events in this period)
+Total number of records downloaded: 24
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalinae" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "genus:sceloporus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+
+
+End of report.
