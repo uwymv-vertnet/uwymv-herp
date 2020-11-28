@@ -1,0 +1,48 @@
+Report for Institution Code UWYMV, Resource uwymv_herp
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 59
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "opheodrys vernalis" ; Times: 2
+	Query: "Lampropeltis gentilis" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Wyoming&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "UWYMV 609" ; Times: 1
+	Query: "vntype:specimen class:Amphibia stateprovince:&#34;North Carolina&#34; year &gt;= 1700 year &lt;= 1820" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 976 download events in this period)
+Total number of records downloaded: 32
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Wyoming&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+
+
+End of report.
